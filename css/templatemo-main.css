@@ -29,6 +29,12 @@ a:hover { color: #FF0; }
   NAV
 ----------*/
 
+.about-us {
+  font-size: 20px; 
+  margin-bottom: 50px;
+  text-align: justify;
+}
+
 .fixed-side-navbar {
   position: fixed;
   top: 50%;
